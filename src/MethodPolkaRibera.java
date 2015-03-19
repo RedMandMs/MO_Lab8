@@ -13,6 +13,7 @@ public class MethodPolkaRibera {
 
         //The start stage
         int k = 0;
+        int dfg =0;
         MyVector d = null;
         MyVector dOld = null;
         double b;
