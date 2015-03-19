@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class MethodPolkaRibera {
 
     public GUI gui;
