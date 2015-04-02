@@ -116,10 +116,12 @@ public class GUI {
         textArea.append(text + "\n");
     }
 
+
     public MyVector grad(MyVector point) {
 
-        return func.gradFun(point);
+        return func.numGradFun(point);
     }
+
 
     /**
      * Listener для кнопки "Start"
